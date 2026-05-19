@@ -3,7 +3,7 @@
 **Track:** Resume A - Climate & ESG Finance
 **Status:** Complete
 **Environment:** Python 3.12 (resume-a)
-**Last Updated:** 2026-05-18
+**Last Updated:** 2026-05
 
 ---
 
