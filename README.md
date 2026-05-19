@@ -18,10 +18,6 @@ agrochemical demand and margin uncertainty. The methodology follows standard
 market risk practice: ARIMA mean equation, GARCH variance equation, conditional
 VaR derivation, and Basel traffic light backtest.
 
-This type of analysis is used by climate risk teams at rating agencies, asset
-managers, and bank treasury desks to quantify how physical climate events
-translate into measurable equity risk.
-
 ---
 
 ## Data Sources
