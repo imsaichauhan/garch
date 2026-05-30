@@ -104,7 +104,10 @@ The yellow zone result on 99% VaR reflects a structural volatility regime shift 
 
 ---
 
-<details><summary>Limitations</summary>
+## Limitations
+
+<details>
+<summary>Expand</summary>
 
 - GARCH(1,1) with normal innovations underestimates tail risk during volatility regime shifts; a rolling re-estimation or EGARCH specification would partially address this
 - Climate event annotations are qualitative; isolating the climate-attributable component of volatility requires event study methodology with control windows
